@@ -302,7 +302,7 @@ function initMap() {
 
             // generate slider
             var bannerSliderSwiper = $('.bannerSlider .swiper-wrapper');
-            bannerSliderSwiper.append("<div class='swiper-slide'><img data-src='" + locations.img + "' class='swiper-lazy banner'><div class='swiper-lazy-preloader swiper-lazy-preloader-white'></div></div>");
+            bannerSliderSwiper.append("<div class='swiper-slide'><img data-src='" + locations.img + "' class='swiper-lazy banner' /><h4>" + locations.title + "</h4><div class='swiper-lazy-preloader swiper-lazy-preloader-white'></div></div>");
 
         });
     });
