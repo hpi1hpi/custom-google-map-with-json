@@ -1,4 +1,4 @@
-# custom-google-map-with-json
+# custom google map with json and swiper.
 
 Here is the demo link - https://codepen.io/hpi1hpi/pen/eoNpzX
 
